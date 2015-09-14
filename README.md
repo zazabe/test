@@ -8,3 +8,4 @@ Changes by tomasz
 foo-bar
 Another line
 Another line
+foo
