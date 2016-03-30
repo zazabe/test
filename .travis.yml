@@ -1,0 +1,10 @@
+sudo: false
+
+env:
+  global:
+    - FOO=hello
+    - secure: gRLQhjq1ENUJh1f9r2iUNajOJ7MiUhJcoixfEuvf2r030bpJPCzWpDmokPpV1hjO6M5wtsfTt1V8OFYq1NH+AQM8jty3xAnW4te/6apXGdCmLBJ/km766n1wCK4Rry6mzLPvpH8eFC4bLe0d7ytAiHCtbTnGJtShqyczPFLxKqw=
+
+script:
+  - echo "FOO = ${FOO}"
+  - echo "BAR = ${BAR}"
