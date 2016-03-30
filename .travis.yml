@@ -1,0 +1,10 @@
+sudo: false
+
+env:
+  global:
+    - FOO=hello
+    - BAR=world
+
+script:
+  - echo "FOO = ${FOO}"
+  - echo "BAR = ${BAR}"
