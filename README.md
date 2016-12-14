@@ -13,4 +13,3 @@ Another line
 SOme note for YouTrack
 
 another one
-another one
