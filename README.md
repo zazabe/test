@@ -18,3 +18,4 @@ another one
 
 
 foo
+bar
