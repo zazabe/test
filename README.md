@@ -18,3 +18,4 @@ another one
 
 
 foo2
+foo
